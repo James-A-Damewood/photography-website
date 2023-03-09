@@ -1,20 +1,28 @@
-h1 {
-  color: White;
-  font-family: impact, sans serif;
+/*Below is the page margin and background color.*/
+body {
+  background-color: lightblue;
+  margin: 25px;
 }
-
-p {
-  font-family: arial;
+/*Next is the link style settings.*/
+a{
+  background-color: orange;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  text-align: center;
+  display: block;
 }
-
-h2 {
-  font-family: gill sans, sans serif;
-  color: pink;
-}
-
+/* Image settings are as follows. */
 img {
-  margin: 15px;
-  border-style: solid;
-  border-width: 5px;
-  border-color: black;
+  border-style: double;
+  border-width: 10px;
+  border-color: green;
 }
+/* Special paragraph */
+p.sarcasm {
+  border-style: solid;
+  border-width: 6px;
+  border-color: red;
+  margin: 5px;
+  padding: 4px 6px;
+  font-family: tahoma;

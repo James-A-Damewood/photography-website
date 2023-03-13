@@ -1,28 +1,26 @@
-/*Below is the page margin and background color.*/
 body {
-  background-color: lightblue;
-  margin: 25px;
+  background-image: url("20210529_223321-2.jpg");
+  Background-color: black;
 }
-/*Next is the link style settings.*/
-a{
-  background-color: orange;
+
+h1 {
   color: white;
-  padding: 15px 30px;
+  text-align: center;
+  font-family: gill sans, sans serif;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+  color: White;
+}
+a {
+  background-color: White;
+  color: Black;
+  padding: 5px 8px;
   text-decoration: none;
   text-align: center;
   display: block;
 }
-/* Image settings are as follows. */
-img {
-  border-style: double;
-  border-width: 10px;
-  border-color: green;
-}
-/* Special paragraph */
-p.sarcasm {
-  border-style: solid;
-  border-width: 6px;
-  border-color: red;
-  margin: 5px;
-  padding: 4px 6px;
-  font-family: tahoma;

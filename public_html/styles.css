@@ -1,15 +1,14 @@
 
-body {
-  background-image: url("20210529_223321-2.jpg");
-  Background-color: black;
-  margin: 50px
-}
-
 h1 {
   color: white;
   font-family: gill sans, sans serif;
   text-decoration-line: underline;
   text-decoration-thickness: 2px;
+}
+
+h2 {
+  color: white;
+  font-family: gill sans, sans serif;
 }
 
 p {
